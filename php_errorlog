@@ -1,0 +1,18 @@
+[26-Oct-2018 22:53:56 CST6CDT] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/ingvarpa/public_html/cinemanni/_functions.php on line 86
+[28-Oct-2018 05:52:49 CST6CDT] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/ingvarpa/public_html/cinemanni/_functions.php on line 86
+[28-Oct-2018 05:53:02 CST6CDT] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/ingvarpa/public_html/cinemanni/_functions.php on line 86
+[14-Dec-2018 12:20:44 CST6CDT] PHP Notice:  Undefined variable: canonical in /home/ingvarpa/public_html/cinemanni/_head.php on line 99
+[14-Dec-2018 12:23:08 CST6CDT] PHP Notice:  Undefined variable: canonical in /home/ingvarpa/public_html/cinemanni/_head.php on line 99
+[14-Dec-2018 12:23:08 CST6CDT] PHP Notice:  Undefined variable: canonical in /home/ingvarpa/public_html/cinemanni/_head.php on line 99
+[14-Dec-2018 12:23:09 CST6CDT] PHP Notice:  Undefined variable: canonical in /home/ingvarpa/public_html/cinemanni/_head.php on line 99
+[14-Dec-2018 12:23:09 CST6CDT] PHP Notice:  Undefined variable: canonical in /home/ingvarpa/public_html/cinemanni/_head.php on line 99
+[14-Dec-2018 12:23:09 CST6CDT] PHP Notice:  Undefined variable: canonical in /home/ingvarpa/public_html/cinemanni/_head.php on line 99
+[14-Dec-2018 12:23:09 CST6CDT] PHP Notice:  Undefined variable: canonical in /home/ingvarpa/public_html/cinemanni/_head.php on line 99
+[14-Dec-2018 12:23:09 CST6CDT] PHP Notice:  Undefined variable: canonical in /home/ingvarpa/public_html/cinemanni/_head.php on line 99
+[14-Dec-2018 12:23:09 CST6CDT] PHP Notice:  Undefined variable: canonical in /home/ingvarpa/public_html/cinemanni/_head.php on line 99
+[17-Dec-2018 11:27:11 CST6CDT] PHP Notice:  Undefined variable: canonical in /home/ingvarpa/public_html/cinemanni/_head.php on line 99
+[07-Jan-2019 16:26:52 CST6CDT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ingvarpa_cinema'@'localhost' to database 'ingvarpa_cinema' in /home/ingvarpa/public_html/cinemanni/_functions.php on line 86
+[09-May-2019 15:26:10 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/ingvarpa/public_html/cinemanni/_functions.php on line 86
+[24-May-2019 11:31:28 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/ingvarpa/public_html/cinemanni/_functions.php on line 86
+[24-May-2019 11:31:30 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/ingvarpa/public_html/cinemanni/_functions.php on line 86
+[20-Aug-2019 09:47:53 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/ingvarpa/public_html/cinemanni/_functions.php on line 86
